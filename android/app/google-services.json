@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "594895555208",
+    "firebase_url": "https://cu-news-322b9.firebaseio.com",
+    "project_id": "cu-news-322b9",
+    "storage_bucket": "cu-news-322b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594895555208:android:17977fbf59737b66aa6d3d",
+        "android_client_info": {
+          "package_name": "com.cumtla.ktk.cunews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594895555208-0oglqt8jqfarica4v9kckgbcr66mfi2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnc1VxmMd17x4n7LYpy-Gux5BX66qp9RI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594895555208-0oglqt8jqfarica4v9kckgbcr66mfi2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
